@@ -14,4 +14,4 @@ Aplikasi catatan belanja harian berbasis Flutter.
 - SharedPreferences
 
 ## Download APK
-https://github.com/USERNAME/REPO/releases
+[https://github.com/USERNAME/REPO/releases](https://github.com/dvaang/spendlist.app/releases/download/v1.0.0/app-release.apk)
